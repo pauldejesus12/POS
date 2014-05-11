@@ -1,0 +1,15 @@
+The following convention MUST BE STRICTLY followed:
+
+- Provide 1 to 2 line documentation for every class or method you declare. (As much as possible limit yourself to 1 line, extend unless needed)
+- Function/Method name must be in verb-noun format. (e.g. findUser)
+- Avoid exceeding 80-100 characters per line.
+- Set your indention to 4 spaces, DO NOT use tabs. (This is, however, available in most text editors)
+
+- Use camelcase for names of class, function, method, variables.
+- Use uppercase for constants. (e.g. PI = 3.1415)
+
+- After you've finished testing and debugging, remove unnecessary comments, prints and unused variables.
+- There will be a weekly code review. (so legit, haha)
+
+~~~
+Aaand last reminder, only push files with .java extensions. NEVER include those with .class.
