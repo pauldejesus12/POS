@@ -5,5 +5,5 @@ db/
   -schema, db files, tables, etc...
 lib/
   -external libraries, dependencies
-scr/
+src/
   -source codes
